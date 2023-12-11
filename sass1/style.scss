@@ -1,0 +1,29 @@
+/* Variable */
+$primary:rgb(0, 238, 255);
+$borderColor:green;
+$borderRadius:50px;
+
+h1{
+    color: $primary;
+    border: 2px solid $borderColor;
+    padding: 10px;
+    border-radius: $borderRadius;
+}
+h2{
+    color: $primary;
+    border: 2px solid $borderColor;
+    padding: 10px;
+    border-radius: $borderRadius;
+}
+h3{
+    color: $primary;
+    border: 2px solid $borderColor;
+    padding: 10px;
+    border-radius: $borderRadius;
+}
+h4{
+    color: $primary;
+    border: 2px solid $borderColor;
+    padding: 10px;
+    border-radius: $borderRadius;
+}
