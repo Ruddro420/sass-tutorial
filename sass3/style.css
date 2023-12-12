@@ -1,0 +1,30 @@
+/* Header SCSS */
+/* Header css code here */
+header {
+  background-color: red;
+  color: black;
+}
+header nav {
+  color: green;
+  margin: 10px;
+}
+header li {
+  padding: 50px;
+}
+header ul {
+  background: red;
+}
+
+/* Main SCSS */
+/* Main Css Here */
+main {
+  background-color: red;
+  color: black;
+}
+
+/* Footer SCSS */
+/* Footer css here */
+footer {
+  background-color: red;
+  color: green;
+}/*# sourceMappingURL=style.css.map */

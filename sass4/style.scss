@@ -1,0 +1,22 @@
+$primary: rgb(136, 244, 3);
+
+@mixin bd-radius($value,$color){
+    background-color: $color;
+    border-radius: $value;
+    width: 500px;
+    height: 500px;
+}
+
+.box-1{
+    @include bd-radius(50px,red);
+}
+.box-2{
+    @include bd-radius(90px,$primary);
+}
+.box-3{
+    @include bd-radius(10px,yellow);
+}
+.container{
+    display: flex;
+    gap: 50px;
+}

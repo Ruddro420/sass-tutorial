@@ -1,0 +1,9 @@
+nav .list-item {
+  background: red;
+}
+nav .list-item .link {
+  color: black;
+}
+nav li {
+  border: 2px solid red;
+}/*# sourceMappingURL=style.css.map */
